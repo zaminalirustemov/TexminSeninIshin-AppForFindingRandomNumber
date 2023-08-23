@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Texmin senin isin</string>
+    <string name="mainPageTitle">Ədəd təxmin et</string>
+    <string name="startGameButton">Oyuna başla</string>
+    <string name="guessNumber">Təxmin sayı: 5</string>
+    <string name="upDown">Yuxarı</string>
+    <string name="hintPlainText">Ədəd daxil et [0–15]</string>
+    <string name="guessButton">Təxmin et</string>
+    <string name="resultTextLoser">Məğlub oldunuz</string>
+    <string name="resultTextWinner">Qazandınız</string>
+    <string name="tryAgain">Yenidən oynayın</string>
+</resources>
